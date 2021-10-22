@@ -22,7 +22,7 @@ I wanted to make it easier for small business owners to take notes and set remin
 
 ## Installation
 
-NA
+Link to deployed application: https://notetakerml.herokuapp.com/notes
 
 ---
 
