@@ -6,7 +6,7 @@ const path = require("path");
 const router = require('express').Router();
 const uuid = require('./helpers/uuid');
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 //middleware
 app.use(express.json())
