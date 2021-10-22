@@ -22,7 +22,7 @@ I wanted to make it easier for small business owners to take notes and set remin
 
 ## Installation
 
-Link to deployed application:
+NA
 
 ---
 
