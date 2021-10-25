@@ -3,6 +3,9 @@
 ## Description
 
 A simple application to take and delete notes for personal or professional use.
+ - Able to include title and text
+  - Note: Note will not save until text is added
+ - Able to delete entire note
 
 I wanted to make it easier for small business owners to take notes and set reminders to ensure their business succeed.
  
@@ -45,7 +48,7 @@ NA
 
 ## Tests
 
-Testing was done by myself.
+NA
 
 ---
 
